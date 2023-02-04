@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "project-xxxxx",
+    "dev": "project-xxxxx",
+    "prod": "project-xxxxx"
+  },
+  "targets": {},
+  "etags": {}
+}
